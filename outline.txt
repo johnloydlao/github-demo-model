@@ -1,4 +1,6 @@
--outline1 
+outline heading
+
+outline1 
 -outline2
 ==chapter2
 -outline3
